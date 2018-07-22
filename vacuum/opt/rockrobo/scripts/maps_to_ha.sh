@@ -6,7 +6,7 @@ RPORT="22"
 ### You shouldn't touch anything below ###
 
 RUSER="homeassistant"
-RDIR="/home/homeassistant/vacuum/"
+RDIR="/home/homeassistant/.homeassistant/vacuum/"
 SSHCTL="/root/.ssh/ctl-ha-rockrobo"
 
 while true; do

@@ -1,1 +1,1 @@
-/home/homeassistant/vacuum IN_MOVED_TO /home/homeassistant/scripts/incrond_vacuum_maps.sh $@/$#
+/home/homeassistant/.homeassistant/vacuum IN_MOVED_TO /home/homeassistant/.homeassistant/scripts/incrond_vacuum_maps.sh $@/$#
