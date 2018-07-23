@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HADIR="/home/homeassistant"
+HADIR="/home/homeassistant/.homeassistant"
 
 ### You shouldn't touch anything below ###
 
